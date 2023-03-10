@@ -270,7 +270,7 @@ This is found in the src/main/resources directory of the source code cloned to y
 CD back to the  root directory of the project where the **`pom.xml`** file is located. 
 Run **`mvn install`** command to build the artifact.
 
-![](https://github.com/Adutoby/DevOps-Projects-AWS/blob/master/Project-4:%20AWS-Refactoring/Images/mvnistall.png)
+
 
 
 ## - Upload Artifact to Elastic Beanstalk
