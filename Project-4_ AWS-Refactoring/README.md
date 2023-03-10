@@ -2,8 +2,6 @@
 
 This strategy detail moving an application to the cloud and modifing its architecture to take full advantage of cloud-native features on AWS. Thereby improving Performance, agility and scalability while it reduces operational overhead and ensure business continuity.
 
-## DevOps Project-4
-Project Source: DevOps Project by [Imran Teli](https://www.udemy.com/course/devopsprojects/learn/lecture/23897820#overview)
 
 ## Pre-requisites:
 - AWS Beanstalk
@@ -336,4 +334,4 @@ Revalidate the application (URL) using another browser, and log in to check that
 ## Finally Step 10: Clean-up
 Ensure to **delete all resources** created throughout the project to avoid charges.
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/oluwatobiloba-adu/)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/paul-folarin-58aaa497/)
